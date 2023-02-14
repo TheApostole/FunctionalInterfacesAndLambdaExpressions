@@ -8,9 +8,6 @@ import java.util.function.Supplier;
 import java.util.jar.Attributes;
 
 public class Main {
-
-    static int number = 0;
-
     public static void main(String[] args) {
 
         // Задарние 1
